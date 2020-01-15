@@ -1,0 +1,9 @@
+Y:\MicrosoftAbout\实体类生成工具\Test窗体自动生成测试项目\测试窗体生成项目\测试窗体生成项目\bin\Debug\测试窗体生成项目.exe
+Y:\MicrosoftAbout\实体类生成工具\Test窗体自动生成测试项目\测试窗体生成项目\测试窗体生成项目\bin\Debug\测试窗体生成项目.pdb
+Y:\MicrosoftAbout\实体类生成工具\Test窗体自动生成测试项目\测试窗体生成项目\测试窗体生成项目\obj\Debug\测试窗体生成项目.csprojAssemblyReference.cache
+Y:\MicrosoftAbout\实体类生成工具\Test窗体自动生成测试项目\测试窗体生成项目\测试窗体生成项目\obj\Debug\测试窗体生成项目.自动创建窗口.resources
+Y:\MicrosoftAbout\实体类生成工具\Test窗体自动生成测试项目\测试窗体生成项目\测试窗体生成项目\obj\Debug\测试窗体生成项目.Properties.Resources.resources
+Y:\MicrosoftAbout\实体类生成工具\Test窗体自动生成测试项目\测试窗体生成项目\测试窗体生成项目\obj\Debug\测试窗体生成项目.csproj.GenerateResource.cache
+Y:\MicrosoftAbout\实体类生成工具\Test窗体自动生成测试项目\测试窗体生成项目\测试窗体生成项目\obj\Debug\测试窗体生成项目.csproj.CoreCompileInputs.cache
+Y:\MicrosoftAbout\实体类生成工具\Test窗体自动生成测试项目\测试窗体生成项目\测试窗体生成项目\obj\Debug\测试窗体生成项目.exe
+Y:\MicrosoftAbout\实体类生成工具\Test窗体自动生成测试项目\测试窗体生成项目\测试窗体生成项目\obj\Debug\测试窗体生成项目.pdb
